@@ -1,0 +1,264 @@
+{
+  "personalInfo": {
+    "name": "Dikshant Kumar",
+    "profession": "Full Stack Developer",
+    "tagline": "Building modern, scalable and user-focused web applications.",
+    "location": "India",
+    "email": "dhimandk261@gmail.com",
+    "phone": "+91 7818041318",
+    "linkedin": "https://www.linkedin.com/in/dikshant-kumar-657a92286/",
+    "github": "https://github.com/dikshant261",
+    "twitter": "https://x.com/dikshan_261",
+    "resume": "/Dikshant_Kumar_Resume.pdf",
+    "profileImage": "/profile.png",
+    "about": "Full Stack Developer building products that scale. React, Node.js, and TypeScript are my toolkit; clean architecture and sharp UI are my standard; and modern AI tools are my force multiplier.",
+    "stats": [
+      {
+        "label": "Projects Built",
+        "value": "8+"
+      },
+      {
+        "label": "Months Experience",
+        "value": "16+"
+      },
+      {
+        "label": "Hackathon Win",
+        "value": "1"
+      },
+      {
+        "label": "Client Satisfaction",
+        "value": "100%"
+      }
+    ]
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "headline": "Dikshant Kumar",
+    "subHeadline": "Full Stack Developer",
+    "description": "I craft clean, scalable, and interactive digital products with modern web architecture, elegant design systems, and resilient engineering.",
+    "primaryButton": "View My Work",
+    "secondaryButton": "Contact Me",
+    "statusText": "Available for new projects & opportunities",
+    "statusAvailable": true
+  },
+  "skills": [
+    {
+      "name": "React.js",
+      "category": "Frontend",
+      "level": "Advanced",
+      "icon": "react"
+    },
+    {
+      "name": "TypeScript",
+      "category": "Frontend",
+      "level": "Advanced",
+      "icon": "typescript"
+    },
+    {
+      "name": "JavaScript (ES6+)",
+      "category": "Frontend",
+      "level": "Advanced",
+      "icon": "javascript"
+    },
+    {
+      "name": "Tailwind CSS",
+      "category": "Frontend",
+      "level": "Advanced",
+      "icon": "tailwind"
+    },
+    {
+      "name": "HTML5 / Semantic Web",
+      "category": "Frontend",
+      "level": "Advanced",
+      "icon": "html"
+    },
+    {
+      "name": "CSS3 / Modern CSS",
+      "category": "Frontend",
+      "level": "Advanced",
+      "icon": "css"
+    },
+    {
+      "name": "Node.js",
+      "category": "Backend",
+      "level": "Advanced",
+      "icon": "node"
+    },
+    {
+      "name": "Express.js",
+      "category": "Backend",
+      "level": "Advanced",
+      "icon": "express"
+    },
+    {
+      "name": "RESTful APIs",
+      "category": "Backend",
+      "level": "Advanced",
+      "icon": "api"
+    },
+    {
+      "name": "MongoDB",
+      "category": "Database",
+      "level": "Intermediate",
+      "icon": "mongodb"
+    },
+    {
+      "name": "PostgreSQL",
+      "category": "Database",
+      "level": "Intermediate",
+      "icon": "postgresql"
+    },
+    {
+      "name": "Prisma ORM",
+      "category": "Database",
+      "level": "Intermediate",
+      "icon": "prisma"
+    },
+    {
+      "name": "SQLite",
+      "category": "Database",
+      "level": "Intermediate",
+      "icon": "sqlite"
+    },
+    {
+      "name": "Git & GitHub",
+      "category": "Tools",
+      "level": "Advanced",
+      "icon": "git"
+    },
+    {
+      "name": "Postman",
+      "category": "Tools",
+      "level": "Advanced",
+      "icon": "postman"
+    }
+  ],
+  "experience": [
+    {
+      "jobProfile": "Software Developer",
+      "companyName": "Anabler Consulting",
+      "startDate": "Aug 2025",
+      "endDate": "June 2026",
+      "location": "Remote",
+      "description": [
+        "Engineered 15+ interactive e-learning simulations for mathematical concepts using React.js, CSS, and Anime.js, delivering animation-driven experiences for K-12 and college-level audiences.",
+        "Collaborated directly with clients across the full product lifecycle — requirement gathering, UI/UX iteration, and deployment — consistently shipping production-ready features on schedule",
+        "Implemented gamified learning flows and real-time visual simulations, improving learner engagement across 15+ modules; optimised component performance for seamless cross-device experiences."
+      ],
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "JavaScript",
+        "CSS",
+        "Anime.js"
+      ]
+    },
+    {
+      "jobProfile": "Freelance Full Stack Developer",
+      "companyName": "Application Zebra · Client Project (Healthcare Domain)",
+      "startDate": "Mar 2025",
+      "endDate": "July 2025",
+      "location": "Remote",
+      "description": [
+        "Architected a real-time hospital bed management platform supporting 500+ beds across multiple departments, using React.js, Express.js, and MongoDB, with role-specific dashboards and analytics for Admin, Doctor, and Nurse personas.",
+        "Implemented secure Role-Based Access Control (RBAC) with JWT authentication and a sector–service–bed hierarchy; built RESTful APIs for real-time bed tracking and dynamic allocation.",
+        "Integrated multilingual support and optimised backend for high-traffic operations; delivered iteratively with a remote client team, maintaining a stable production-ready codebase throughout."
+      ],
+      "technologies": [
+        "React",
+        "JavaScript",
+        "TypeScript",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "JWT Authentication",
+        "RESTful APIs",
+        "Git"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "projectName": "College Fee Management",
+      "shortDescription": "A modern application for managing student fees, invoices, and automated payment records.",
+      "description": "A complete institutional fee management system engineered to streamline student dues collection, ledger reports, and administrative receipts. Includes multi-role admin controls, exportable analytics, and automated Google Drive backup and data synchronization for secure data protection.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Express.js",
+        "SQLite",
+        "Tailwind CSS"
+      ],
+      "projectLink": "/projects/clg-video.mp4",
+      "githubLink": "https://github.com/dikshant261/college-fee-management",
+      "image": "/projects/college-fee.png",
+      "featured": true,
+      "category": "Full Stack"
+    },
+    {
+      "projectName": "Tailor Management System",
+      "shortDescription": "A complete tailoring business management application for managing customers, measurements, orders, payments, and deliveries.",
+      "description": "A practical tailoring management system designed to streamline customer management, clothing measurements, stitching orders, payment tracking, delivery schedules, and order status management through a centralized workflow.",
+      "technologies": [
+        "React",
+        "TypeScript",
+        "Node.js",
+        "Express.js",
+        "MongoDB",
+        "Tailwind CSS"
+      ],
+      "projectLink": "https://tailor-management-rloa.onrender.com/",
+      "githubLink": "https://github.com/dikshant261/tailor-sathi-tailor-management-app-",
+      "image": "/projects/tailor.png",
+      "featured": true,
+      "category": "Full Stack"
+    }
+  ],
+  "achievements": [
+    {
+      "title": "HackIndia 2025 Winner",
+      "organization": "HackIndia National Hackathon",
+      "description": "Secured 1st position among 200+ teams by engineering a decentralized voting application using blockchain technology. The application provided secure, transparent, and tamper-proof voting with real-time result updates.",
+      "date": "May, 2025",
+      "awardType": "1st Place Winner"
+    },
+    {
+      "title": "Hackindia Hackathon 2025 National Finalist",
+      "organization": "Hackindia",
+      "description": "Participated in the HackIndia Hackathon 2025, organized by HackIndia, and was recognized as a National Finalist.",
+      "date": "Oct, 2025",
+      "awardType": "National Finalist Award"
+    }
+  ],
+  "services": [
+    {
+      "title": "Frontend Engineering",
+      "description": "High-performance, accessible, and responsive user interfaces using React, TypeScript, and modern CSS systems.",
+      "icon": "layout"
+    },
+    {
+      "title": "Backend & API Architecture",
+      "description": "Robust RESTful and GraphQL APIs built with Node.js and Express, designed for reliability, scalability, and security.",
+      "icon": "server"
+    },
+    {
+      "title": "Full Stack Applications",
+      "description": "Turnkey web solutions from database schema design and authentication to intuitive UI and cloud deployment.",
+      "icon": "layers"
+    },
+    {
+      "title": "Database Optimization",
+      "description": "Efficient relational and document data modeling with PostgreSQL, MongoDB, and Prisma ORM for optimal query speed.",
+      "icon": "database"
+    }
+  ],
+  "contact": {
+    "heading": "Let's Build Something Exceptional Together",
+    "description": "Have an exciting project, a role to discuss, or just want to chat about modern web technologies? My inbox is always open.",
+    "email": "dhimandk261@gmail.com",
+    "phone": "+91 98765 43210",
+    "location": "India (Available Worldwide / Remote)"
+  }
+}
